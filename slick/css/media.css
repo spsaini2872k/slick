@@ -1,0 +1,99 @@
+/* 
+ @media (max-width:1130px){
+
+    /* header section starts here */
+
+    .nav-bar{
+        left:5%;
+    }
+
+    .nav-bar ul li a{
+        font-size: 14px;
+    }
+    
+    .nav-bar .download-btn{
+        padding-left: 8px 12px;
+        font-size: 14px;
+    }
+
+    .container{
+        flex-direction: column;
+        padding-top: 12%;
+        justify-content: center;
+    }
+
+    .container .content{
+        width: 80%;
+        margin-bottom: 5%;
+    }
+
+    .container .image-box{
+        width: 80%;
+    }
+
+
+    /* bussiness section is here */
+
+    .bussiness-div .bussiness-content h3{
+        font-size: 25px;
+    }
+
+    .bussiness-content p{
+        font-size: 14px;
+    }
+
+    .bussiness-content .green-dwn-btn{
+        padding: 10px 20px;
+    }
+
+    /* testimonial section */
+
+    .testimonials-div{
+        padding: 30px;
+    }
+
+    .testimonials-div p{
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .testimonials-div h5{
+        font-size: 16px;
+    }
+
+    .testimonials-div span{
+        font-size: 16px;
+    }
+
+    .testimonials-div .client-img{
+        width: 90px;
+        height: 90px;
+    }
+
+
+    /* contact section */
+
+    .contact-section form input{
+        width: 300px;
+    }
+}
+
+@media (max-width:986px){
+    /* header section  */
+
+    header .upper-box{
+        display: none;
+    }
+
+
+    .nav-bar ul{
+        display: none;
+    }
+
+    .nav-bar .fa{
+        display: inline-block;
+        font-size: 22px;
+        padding-top: 8px;
+    }
+
+} */
